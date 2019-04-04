@@ -1,0 +1,19 @@
+.event {
+  position: absolute;
+}
+
+.event-content {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-left: 3px solid green;
+  padding: 5px 10px;
+  height: 100%;
+}
+
+.event-title {
+  color: green;
+}
+
+.event-location {
+  color: #777;
+}
