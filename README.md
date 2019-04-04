@@ -1,7 +1,9 @@
 # RuumCodingChallenge
 
-Ready app is build with ng build --prod command and deployed to GitHub pages. To access app visit https://nazariy-dubnytskyy.github.io/ruum-coding-challenge/
+## Running
 
-## Development server
+1. By visiting /code-challenges/ruum-coding-challenge/dist/index.html (works in Firefox, doesn't work in Chrome probably because of ngrx usage)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+2. By visiting  https://nazariy-dubnytskyy.github.io/ruum-coding-challenge/. Ready app is build with ng build --prod command and deployed to GitHub pages.
+
+3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
